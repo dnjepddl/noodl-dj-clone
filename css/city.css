@@ -1,5 +1,8 @@
 /* 대전홍보 */
-.cityinfo{}
+.cityinfo{
+    height: 2260px;
+    background: #f6ac1d;
+}
 @media all and (max-width:1280px) {
   
 }

@@ -1,5 +1,7 @@
 /* 행사일정 */
-.schedule{}
+.schedule{
+    height: 1210px;
+}
 @media all and (max-width:1280px) {
   
 }

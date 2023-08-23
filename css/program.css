@@ -1,5 +1,8 @@
 /* 프로그램소개 */
-.program{}
+.program{
+    height: 1740px;
+    background: #0bb99a;
+}
 @media all and (max-width:1280px) {
   
 }
